@@ -4,7 +4,7 @@
 
 ###
 
-<p align="left">Hi 👋! My name is Teo and I'm a A moderately advanced programmer, learning new things all the time., from Czech republic.</p>
+<p align="left">Hi 👋! My name is Teo and I'm a moderately advanced programmer, learning new things all the time., from Czech republic.</p>
 
 ###
 

@@ -1,3 +1,9 @@
+<div align="center">
+  <img height="200" src="https://blue-laurena-4.tiiny.site/svg/Horni-baner"  />
+</div>
+
+###
+
 <p align="left">Hi 👋! My name is Teo and I'm a A moderately advanced programmer, learning new things all the time., from Czech republic.</p>
 
 ###

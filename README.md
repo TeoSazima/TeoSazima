@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2019<br>📚 I'm currently learning C++<br>🎯 Goals: Validating code system<br>🎲 Fun fact: I use CamelCase instead of other forms.</p>
+<p align="left">✨ Creating bugs since 2019<br>📚 I'm currently learning C++<br>🎯 Goals: Validating code system<br>🎲 Fun fact: The key to success is naming variables well.</p>
 
 ###
 

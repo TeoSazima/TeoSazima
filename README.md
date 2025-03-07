@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://blue-laurena-4.tiiny.site/svg/Horni-baner"  />
+  <img height="200" src="https://blue-laurena-4.tiiny.site/Horni-baner.svg"  />
 </div>
 
 ###

@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2019<br>📚 I'm currently learning C++<br>🎯 Goals: Validating code system<br>🎲 Fun fact: The key to success is naming variables well.<br>💡Working on: Guess the Theme game</p>
+<p align="left">✨ Creating bugs since 2019<br>📚 I'm currently learning C#br>🎯 Goals: Game with MonoGame FrameWork<br>🎲 Fun fact: The key to success is naming variables well.<br>💡Working on: ???</p>
 
 ###
 
